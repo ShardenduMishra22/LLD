@@ -16,5 +16,5 @@ public abstract class Item {
         return id;
     }
 
-    public abstract double getValue(); // Each type will implement its own value calculation
+    public abstract double getValue();
 }
